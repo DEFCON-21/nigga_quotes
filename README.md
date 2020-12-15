@@ -2,13 +2,13 @@
 quotes collection for the niggalations app
 
 
-copy the following Json tempplate and add the content to the top of the list.
+copy the following Json tempplate and add the content to the top of the list.\n
 number is in ascending order.
 
 --new quote number >previous quote number>older quote number
 ##
-{
-"quotation":"", 
-"author":"",
-"number":""
+{\n
+"quotation":"", \n
+"author":"",\n
+"number":""\n
 },
