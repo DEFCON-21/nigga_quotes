@@ -8,7 +8,7 @@ number is in ascending order.
 --new quote number >previous quote number>older quote number
 ##
 {
-"quotation":"", 
-"author":"",
-"number":""
+"quotation":" ", 
+"author":" ",
+"number":" "
 },
