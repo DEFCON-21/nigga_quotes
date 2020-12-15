@@ -1,5 +1,13 @@
 
 # Please add new quotes to the top.
-eg.
+Always add the new quotes at the top.
 
-## New quotes should have a unique quote number
+Use this format to update quotes
+
+ {
+## "quotation":"She belongs to the streets", 
+  ##   "author":"Niggalations",
+   ##  "number":"1:17"
+    }
+
+## New quotes should have a unique quote number.
